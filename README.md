@@ -6,41 +6,41 @@
 
 Practice tasks inspired by everyday entry-level work: cleaning data, reconciling records, analyzing performance, and preparing reports. Start with an unfinished workbook, solve the task yourself, and compare your work with a completed solution.
 
-**[Download all free practice files](https://excel-finance-book.pages.dev/)** · **[Explore the exercises](#the-10-practice-cases)** · **[Companion Kindle book](https://www.amazon.com/dp/B0HPRRQWV3)**
+**[Download the 20 free Excel files](#the-10-practice-cases)** · **[Project website](https://excel-finance-book.pages.dev/)** · **[Companion Kindle book](https://www.amazon.com/dp/B0HPRRQWV3)**
 
-The project includes **20 Excel workbooks** (10 `STARTER` and 10 `SOLUTION` files), available for free from the project website **without registration or purchase**. The workbooks are the practical companion materials to *Excel for Your First Finance Job* by **Filip Teply**.
+This repository provides **20 Excel workbooks** (10 `STARTER` and 10 `SOLUTION` files), downloadable directly below **for free, without registration or purchase**. They are the practical companion materials to *Excel for Your First Finance Job* by **Filip Teply**.
 
 ## Getting started
 
-1. Visit the **[free workbook library](https://excel-finance-book.pages.dev/)** and choose a case.
-2. Download its original `STARTER` workbook and try to complete the task on your own.
-3. Check your formulas, analysis, and output against the corresponding `SOLUTION` workbook.
+1. Choose a case in the table below and click **Download STARTER**.
+2. Open the original `STARTER` workbook and try to complete the task on your own.
+3. Use **Download SOLUTION** for the same case to check your formulas, analysis, and output.
 4. Repeat with the next case or revisit a task until the workflow feels familiar.
 
 **Tip:** Treat each exercise as a small assignment from your first week at work: document assumptions, check totals, and make the result easy for another person to review.
 
 ## The 10 practice cases
 
-| # | Exercise | What you practice |
-|---|---|---|
-| 01 | **Cleaning Messy Financial Data** | Turning inconsistent source data into a usable dataset. |
-| 02 | **Transaction Matching Across Systems** | Comparing records and identifying matches and exceptions. |
-| 03 | **Bank Reconciliation** | Investigating differences between bank and ledger information. |
-| 04 | **Accounts Receivable Aging** | Organizing unpaid balances by overdue period. |
-| 05 | **Budget vs. Actual Analysis** | Comparing planned figures with actual performance. |
-| 06 | **Cost Analysis with Pivot Tables** | Summarizing cost data and exploring spending patterns. |
-| 07 | **Building a Financial Dashboard** | Presenting key information in a readable management view. |
-| 08 | **Financial Statements and KPI Analysis** | Interpreting financial statement figures and performance indicators. |
-| 09 | **Detecting Errors and Building Controls** | Identifying anomalies and checking the reliability of calculations. |
-| 10 | **Month-End Reporting** | Bringing financial data into a concise periodic report. |
+| # | Exercise | What you practice | Starter workbook | Worked solution |
+|---|---|---|---|---|
+| 01 | **Cleaning Messy Financial Data** | Turning inconsistent source data into a usable dataset. | [Download STARTER](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_01_Cleaning_Messy_Data_STARTER.xlsx) | [Download SOLUTION](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_01_Cleaning_Messy_Data_SOLUTION.xlsx) |
+| 02 | **Transaction Matching Across Systems** | Comparing records and identifying matches and exceptions. | [Download STARTER](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_02_Transaction_Matching_STARTER.xlsx) | [Download SOLUTION](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_02_Transaction_Matching_SOLUTION.xlsx) |
+| 03 | **Bank Reconciliation** | Investigating differences between bank and ledger information. | [Download STARTER](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_03_Bank_Reconciliation_STARTER.xlsx) | [Download SOLUTION](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_03_Bank_Reconciliation_SOLUTION.xlsx) |
+| 04 | **Accounts Receivable Aging** | Organizing unpaid balances by overdue period. | [Download STARTER](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_04_Receivables_Aging_STARTER.xlsx) | [Download SOLUTION](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_04_Receivables_Aging_SOLUTION.xlsx) |
+| 05 | **Budget vs. Actual Analysis** | Comparing planned figures with actual performance. | [Download STARTER](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_05_Budget_vs_Actual_STARTER.xlsx) | [Download SOLUTION](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_05_Budget_vs_Actual_SOLUTION.xlsx) |
+| 06 | **Cost Analysis with Pivot Tables** | Summarizing cost data and exploring spending patterns. | [Download STARTER](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_06_Cost_Analysis_Pivots_STARTER.xlsx) | [Download SOLUTION](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_06_Cost_Analysis_Pivots_SOLUTION.xlsx) |
+| 07 | **Building a Financial Dashboard** | Presenting key information in a readable management view. | [Download STARTER](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_07_Financial_Dashboard_STARTER.xlsx) | [Download SOLUTION](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_07_Financial_Dashboard_SOLUTION.xlsx) |
+| 08 | **Financial Statements and KPI Analysis** | Interpreting financial statement figures and performance indicators. | [Download STARTER](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_08_Financial_Statements_KPIs_STARTER.xlsx) | [Download SOLUTION](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_08_Financial_Statements_KPIs_SOLUTION.xlsx) |
+| 09 | **Detecting Errors and Building Controls** | Identifying anomalies and checking the reliability of calculations. | [Download STARTER](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_09_Error_Detection_Controls_STARTER.xlsx) | [Download SOLUTION](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_09_Error_Detection_Controls_SOLUTION.xlsx) |
+| 10 | **Month-End Reporting** | Bringing financial data into a concise periodic report. | [Download STARTER](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_10_Month_End_Reporting_STARTER.xlsx) | [Download SOLUTION](https://raw.githubusercontent.com/Filipoida/excel-finance-practice/main/workbooks/Module_10_Month_End_Reporting_SOLUTION.xlsx) |
 
 You can practice skills such as data cleaning, lookups, conditional calculations, reconciliations, PivotTables, financial analysis, and report presentation. The exact tools vary by exercise.
 
 ## Where are the Excel files?
 
-**All 20 original workbook downloads are available on the [project website](https://excel-finance-book.pages.dev/).** This repository is being prepared as an additional distribution and reference point. If the `workbooks/` folder is not yet populated, please use the website downloads; no example files or replacement workbooks are being substituted for the originals.
+**All 20 original `.xlsx` files are available directly from the download links above** or in the **[`workbooks/` folder](workbooks/)**, with their original filenames preserved. You can also get the same free practice files from the **[official project website](https://excel-finance-book.pages.dev/)**. No purchase or registration is needed.
 
-When added here, the workbooks will retain their **original filenames**.
+Use a `STARTER` file to attempt the exercise, then compare with its matching `SOLUTION` file. Both versions are provided so you can practice independently.
 
 ## Transparency and quality
 
