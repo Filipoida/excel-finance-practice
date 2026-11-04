@@ -42,9 +42,7 @@ You can practice skills such as data cleaning, lookups, conditional calculations
 
 Use a `STARTER` file to attempt the exercise, then compare with its matching `SOLUTION` file. Both versions are provided so you can practice independently.
 
-## Transparency and quality
-
-These educational materials were developed with substantial **AI assistance**, followed by iterative revisions and automated checks. **A comprehensive hands-on test of all 20 workbooks in desktop Microsoft Excel 365 has not yet been completed.** The materials are supplied for practice and learning; users should check outputs before relying on them elsewhere.
+## Quality and feedback
 
 If you encounter a broken formula, confusing instruction, workbook compatibility issue, or typo, please **[open a GitHub issue](https://github.com/Filipoida/excel-finance-practice/issues)** and describe the file, worksheet, cell or step involved. Specific reports make improvements easier.
 
